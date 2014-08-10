@@ -1,5 +1,5 @@
 pkgname="seccure"
-pkgver="0.4"
+pkgver="0.5"
 pkgrel="1"
 pkgdesc="Encrypt, decrypt and sign securely using only a password"
 arch=('i686' 'x86_64')
